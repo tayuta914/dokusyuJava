@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayJagged",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap02.ArrayJagged",
+      "projectName": "dokusyuJava_fa49e1fb"
+    },
+    {
+      "type": "java",
+      "name": "ArrayJagged",
+      "request": "launch",
+      "mainClass": "to.msn.wings.dokusyuJava.chap02.ArrayJagged",
+      "projectName": "dokusyuJava_fa49e1fb"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Hello",
+      "projectName": "dokusyuJava_fa49e1fb"
+    },
+    {
+      "type": "java",
       "name": "Hello",
       "request": "launch",
       "mainClass": "selfjava/to.msn.wings.selfjava.chap01.Hello",
