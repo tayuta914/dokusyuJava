@@ -9,6 +9,13 @@
       "name": "ArrayJagged",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap02.ArrayJagged",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "ArrayJagged",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap02.ArrayJagged",
       "projectName": "dokusyuJava_fa49e1fb"
     },
     {
