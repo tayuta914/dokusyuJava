@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Practice4_4",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.Practice4_4",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "FileProcess",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.FileProcess",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice4_2",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.Practice4_2",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice4",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.Practice4",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice3",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.Practice3",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "HttpPost",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.HttpPost",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "HttpPost",
+      "request": "launch",
+      "mainClass": "HttpPost",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "FileProcess",
+      "request": "launch",
+      "mainClass": "FileProcess",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "CalUse",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap05.CalUse",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
       "name": "Pravtice5",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap04.Pravtice5",
