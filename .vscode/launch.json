@@ -6,6 +6,113 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pravtice5",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.Pravtice5",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Pravtice4",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.Pravtice4",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice3",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.Practice3",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice2",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.Practice2",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice1",
+      "request": "launch",
+      "args": ["1", "2", "3"],
+      "mainClass": "to.msn.wings.selfjava.chap04.Practice1",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "BreakNest",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.BreakNest",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Continue",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.Continue",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "PFor",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.PFor",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "MainTest",
+      "request": "launch",
+      "args": ["太郎", "次郎", "三郎"],
+      "mainClass": "to.msn.wings.selfjava.chap04.MainTest",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "ForComma2",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.ForComma2",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "SwitchWhenLesson",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.SwitchWhenLesson",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "SwitchMatch",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.SwitchMatch",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "SwitchExp",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.SwitchExp",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "SwitchBasic",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.SwitchBasic",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "IfOmit",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap04.IfOmit",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
       "name": "Condition",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap03.Condition",
