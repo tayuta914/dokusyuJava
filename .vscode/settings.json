@@ -1,10 +1,10 @@
 {
   "java.project.sourcePaths": [
     "selfjava/src/to/msn/wings/selfjava/chap01",
-    "selfjava/src/to/msn/wings/selfjava/chap02"
-    "selfjava/src/to/msn/wings/selfjava/chap03"
-    "selfjava/src/to/msn/wings/selfjava/chap04"
-    "selfjava/src/to/msn/wings/selfjava/chap05"
+    "selfjava/src/to/msn/wings/selfjava/chap02",
+    "selfjava/src/to/msn/wings/selfjava/chap03",
+    "selfjava/src/to/msn/wings/selfjava/chap04",
+    "selfjava/src/to/msn/wings/selfjava/chap05",
     "selfjava/src/to/msn/wings/selfjava/chap06"
   ],
   "java.project.outputPath": "bin",
