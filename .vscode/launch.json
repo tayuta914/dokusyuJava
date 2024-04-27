@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Condition",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap03.Condition",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "CompareArrayDeep",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap03.CompareArrayDeep",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "CompareBigDecimal",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap03.CompareBigDecimal",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap03.Main",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
       "name": "ArrayJagged",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap02.ArrayJagged",
