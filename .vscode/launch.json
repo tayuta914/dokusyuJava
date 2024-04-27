@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap01.Hello",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "CalucBigDecimal",
+      "request": "launch",
+      "mainClass": "CalucBigDecimal",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
       "name": "Practice4_4",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap05.Practice4_4",
