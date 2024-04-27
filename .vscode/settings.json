@@ -1,5 +1,12 @@
 {
-  "java.project.sourcePaths": ["selfjava/src/to/msn/wings/selfjava/chap01"],
+  "java.project.sourcePaths": [
+    "selfjava/src/to/msn/wings/selfjava/chap01/to/msn/wings/selfjava/chap05",
+    "selfjava/src/to/msn/wings/selfjava/chap01/to/msn/wings/selfjava/chap05_1"
+  ],
   "java.project.outputPath": "bin",
-  "java.project.referencedLibraries": ["lib/**/*.jar"]
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "files.encoding": "utf8",
+  "files.eol": "\n"
 }
