@@ -5,7 +5,8 @@
     "selfjava/src/to/msn/wings/selfjava/chap03",
     "selfjava/src/to/msn/wings/selfjava/chap04",
     "selfjava/src/to/msn/wings/selfjava/chap05",
-    "selfjava/src/to/msn/wings/selfjava/chap06"
+    "selfjava/src/to/msn/wings/selfjava/chap06",
+    "selfjava/src/to/msn/wings/selfjava/chap07"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
