@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ThreadPoolBasic",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap11.ThreadPoolBasic",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice3",
+      "request": "launch",
+      "mainClass": "to.msn.wings.selfjava.chap10.Practice3",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "Practice3",
+      "request": "launch",
+      "mainClass": "Practice3",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
+      "name": "ThreadPoolBasic",
+      "request": "launch",
+      "mainClass": "ThreadPoolBasic",
+      "projectName": "dokusyuJava_b919fe90"
+    },
+    {
+      "type": "java",
       "name": "Hello",
       "request": "launch",
       "mainClass": "to.msn.wings.selfjava.chap01.Hello",
